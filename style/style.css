@@ -327,7 +327,12 @@ slider-main__item {
     }
 }
 
+
 @media (max-width: 768px) {
+
+    .main_slider_photo {
+        margin-top: 120px;
+    }
 
     .header {
         min-height: 50px;
@@ -446,6 +451,7 @@ slider-main__item {
 @media (max-width: 390px) {
 
     .main_slider_photo {
-        margin-top: 166px;
+        margin-top: 160px;
     }
 }
+
