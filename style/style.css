@@ -440,4 +440,12 @@ slider-main__item {
     .pagination {
         min-height: 80px;
     }
+
+}
+
+@media (max-width: 390px) {
+
+    .main_slider_photo {
+        margin-top: 166px;
+    }
 }
